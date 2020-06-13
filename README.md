@@ -2,6 +2,7 @@
 
 Open `cmd`, `bash`, `wt` or anyhing else in current working dir using [autohotkey](https://www.autohotkey.com/)
 
+Tested in Windows 10
 
 ### Basic script
 
