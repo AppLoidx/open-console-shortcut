@@ -43,7 +43,7 @@ You can call this script with <kbd>ctrl</kbd> + <kbd>t</kbd> combination
 
 What is really important in this script it is `Get_Path` method which gives a current working dir from Explorer path holder
 
-So, you can modify Run command in the end of OpenCmdInCurrent function
+So, you can modify Run command in the end of `OpenCmdInCurrent` function
 
 ### Use wt or bash
 
